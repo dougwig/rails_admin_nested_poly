@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   spec.files = Dir['Gemfile', 'LICENSE.md', 'README.md', 'Rakefile', 'app/**/*', 'config/**/*', 'lib/**/*', 'public/**/*']
   spec.licenses = ['MIT']
   spec.homepage = 'https://github.com/sferik/rails_admin'
-  spec.name = 'rails_admin_nested_poly'
+  spec.name = 'rails_admin'
   spec.require_paths = ['lib']
   spec.required_rubygems_version = '>= 1.3.5'
   spec.signing_key = File.expand_path("~/.gem/private_key.pem") if $0 =~ /gem\z/
